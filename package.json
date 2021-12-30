@@ -1,0 +1,15 @@
+{
+  "name": "httpnodeserver",
+  "version": "1.0.0",
+  "description": "node.js server",
+  "main": "Server.js",
+  "scripts": {
+    "test": "ls",
+    "start": "nodemon server.js"
+  },
+  "author": "LeeJinwook",
+  "license": "MIT",
+  "dependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
